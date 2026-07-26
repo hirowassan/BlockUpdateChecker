@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "minVersion": "0.5.3",
+    "package": "com.hirowassan.bufinder.mixin",
+    "refmap": "mixins.bufinder.refmap.json",
+    "mixins": [
+        "MixinChunk",
+        "MixinWorld"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

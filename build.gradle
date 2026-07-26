@@ -48,7 +48,7 @@ configFile.withReader {
     project.ext.config = new ConfigSlurper().parse prop
 }
 
-group = 'xyz.crazyh'
+group = 'com.hirowassan'
 version = project.mod_version
 archivesBaseName = project.mod_name
 
@@ -66,7 +66,7 @@ dependencies {
 sourceSets {
     main {
         // Refmap declaration must match the refmap name specified in the json config
-        ext.refMap = "mixins.litemodtemplate.refmap.json"
+        ext.refMap = "mixins.bufinder.refmap.json"
     }
 }
 

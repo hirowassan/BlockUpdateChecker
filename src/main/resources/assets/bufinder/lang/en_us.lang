@@ -1,0 +1,4 @@
+bufinder.name=BUFinder
+bufinder.description=Visualizes Block Updates that occur during Chunk Population.
+
+key.bufinder.toggleesp=Toggle BU ESP display
