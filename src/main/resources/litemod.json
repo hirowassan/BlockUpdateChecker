@@ -1,0 +1,7 @@
+{
+    "name": "litemodtemplate",
+    "mcversion": "1.12.2",
+    "mixinConfigs": [
+        "mixins.litemodtemplate.json"
+    ]
+}
